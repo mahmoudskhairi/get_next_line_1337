@@ -113,6 +113,6 @@ This allows you to manage file reading flows effectively.</p>
 <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more information.</p>
 
 <h2 id="contact">Contact</h2>
-<p>For any questions or inquiries, feel free to reach out at <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+<p>For any questions or inquiries, feel free to reach out at <a href="mailto:your-email@example.com">mahmoud.skhairi@example.com</a>.</p>
 
 <h2>Happy Coding!</h2>
