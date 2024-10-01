@@ -1,5 +1,4 @@
 <h1 align="center">42 GetNextLine Project</h1>
-<!-- HTML for the image (replace with an actual path or URL) -->
 <img src="get_next_line.webp" alt="Libft Logo" style="max-width: 100%; height: auto;">
 <p align="center">
   <strong>A C library that reads a line from a file descriptor, handling one line at a time.</strong>
