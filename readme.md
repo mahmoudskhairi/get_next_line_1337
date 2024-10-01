@@ -35,11 +35,11 @@
 <pre>
 <code>
 # Clone the repository
-git clone https://github.com/yourusername/42-getnextline.git
+  https://github.com/mahmoudskhairi/get_next_line_42.git
 # Navigate into the directory
-cd 42-getnextline
+  cd 42-getnextline
 # Compile the project
-make
+  make
 </code>
 </pre>
 
