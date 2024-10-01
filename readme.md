@@ -1,5 +1,6 @@
 <h1 align="center">42 GetNextLine Project</h1>
-
+<!-- HTML for the image (replace with an actual path or URL) -->
+<img src="get_next_line.webp" alt="Libft Logo" style="max-width: 100%; height: auto;">
 <p align="center">
   <strong>A C library that reads a line from a file descriptor, handling one line at a time.</strong>
 </p>
@@ -13,7 +14,6 @@
   <li><a href="#example">Example</a></li>
   <li><a href="#error-handling">Error Handling</a></li>
   <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#license">License</a></li>
   <li><a href="#contact">Contact</a></li>
 </ul>
 
@@ -109,10 +109,12 @@ This allows you to manage file reading flows effectively.</p>
   <li>Submit a pull request.</li>
 </ul>
 
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more information.</p>
-
 <h2 id="contact">Contact</h2>
-<p>For any questions or inquiries, feel free to reach out at <a href="mailto:your-email@example.com">mahmoud.skhairi@gmail.com</a>.</p>
+<p>For any questions, feedback, or issues, feel free to reach out:</p>
+<ul>
+  <li>Email: <a href="mailto:mahmoud.skhairi@gmail.com">mahmoud.skhairi@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/mahmoud-skhairi" target="_blank">mahmoud skhairi</a></li>
+</ul>
+
 
 <h2>Happy Coding!</h2>
