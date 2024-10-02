@@ -35,7 +35,7 @@
 <pre>
 <code>
 # Clone the repository
-  https://github.com/mahmoudskhairi/get_next_line_42.git
+  git clone https://github.com/mahmoudskhairi/get_next_line_42.git
 # Navigate into the directory
   cd 42-getnextline
 # Compile the project
